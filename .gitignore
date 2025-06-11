@@ -1,0 +1,21 @@
+# Python の自動生成ファイル（実行時のゴミ）
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook の自動保存ファイル
+.ipynb_checkpoints/
+
+# 仮想環境（人によって中身が違う、入れないほうがいい）
+.venv/
+venv/
+env/
+ENV/
+
+# macOS・Windowsで勝手にできる不要ファイル
+.DS_Store
+Thumbs.db
+
+# VSCodeの一時設定ファイル（人ごとに違う部分）
+.vscode/
