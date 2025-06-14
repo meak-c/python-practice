@@ -1,0 +1,4 @@
+font.family: Yu Gothic
+axes.unicode_minus: False
+figure.dpi: 100
+axes.grid: True
